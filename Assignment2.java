@@ -1,3 +1,30 @@
+/*
+ * FUNCTIONALITY AND TASK
+ * ...........................................................................................
+ * Define a class called MoBike with the following description:
+ * 
+ * @ Instance variables / data members
+ * 
+ * bno - To store the bike no
+ * phno - To stroe the phone no of the customer
+ * name - To store the name of the customer
+ * days - To store the no of days the bike is taken on rent
+ * charge - To calculate and store the rental charge
+ * 
+ * @ Member methods:
+ * void input()   - To input and store the detail of the customer.
+ * void compute() -  To compute the rental charge
+ * void display() - To display the details in the following format   ( Bike No  |     Phone No    |      No. of days    |    Charge   )
+ * 
+ * NOTE:
+ * 1.) Charges for 1 to 5 days = 500 per day
+ * 2.) Charges for 5 to 10 days = 400 per day
+ * 3.) Rest of the days charges = 200 per day
+ */
+
+
+
+
 MoBike.java
 ................................................................................................................................................................................
 package com.c2lbiz.practice;
